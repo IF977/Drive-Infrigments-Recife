@@ -1,24 +1,15 @@
-# README
+# TheDreamTeam
+Projeto da disciplina (IF977) Engenharia de Software, do curso de graduação em Sistemas de Informação do Centro de Informática da Universidade Federal de Pernambuco (UFPE).
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Equipe:
+* Rhenan Alves da Silva: Gerente do Projeto e Desenvolvedor
+* Thomaz Barbosa Maciel: Desenvolvedor
+* Marcus Tiberius de Gomes Nascimento: Desenvolvedor
+* Paulo Eduardo Marques da Silva Meireles: Desenvolvedor de Testes
 
-Things you may want to cover:
+## Descrição
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
+## Justificativa
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
