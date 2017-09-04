@@ -28,7 +28,9 @@
 
 | **Ação** | **Responsável** |
 | --- | --- |
+| Validação de HUs | Toda a equipe |
+| Criação de mockups e lo-fi | Toda a equipe |
 | Triagem de APIs | Toda a equipe |
 | Modelar layout/template do site | Toda a equipe |
 | Estudar HTML | Toda a equipe |
-| Estudar Ruby | Toda a equipe |
+| Estudar Ruby and Rails| Toda a equipe |
