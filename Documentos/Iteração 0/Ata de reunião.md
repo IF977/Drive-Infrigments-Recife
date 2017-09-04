@@ -28,7 +28,6 @@
 
 | **Ação** | **Responsável** |
 | --- | --- |
-
 | Triagem de APIs | Toda a equipe |
 | Modelar layout/template do site | Toda a equipe |
 | Estudar HTML | Toda a equipe |
