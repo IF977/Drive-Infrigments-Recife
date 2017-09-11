@@ -1,4 +1,4 @@
-## **Ata de Reunião**
+'## **Ata de Reunião**
 
 | **Data** | **Local** | **Hora de início** | **Hora de término** |
 | --- | --- | --- | --- |
@@ -28,9 +28,9 @@
 
 | **Ação** | **Responsável** |
 | --- | --- |
-| Validação de HUs | Toda a equipe |
-| Criação de mockups e lo-fi | Toda a equipe |
-| Triagem de APIs | Toda a equipe |
-| Modelar layout/template do site | Toda a equipe |
+| Validação de HUs | @tbm |
+| Criação de mockups e lo-fi | @rhenanalves |
+| Triagem de APIs | @marcustib |
+| Modelar layout/template do site | @pemsm |
 | Estudar HTML | Toda a equipe |
 | Estudar Ruby and Rails| Toda a equipe |
