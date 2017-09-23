@@ -24,7 +24,7 @@ Para poder ter acesso em qualquer dispositivo
 ```sh
 Como usuário 
 
-Quero poder acessar uma página contento informações úteis
+Quero poder acessar uma página contendo informações úteis
 
 Para poder me informar
 ```
