@@ -35,7 +35,7 @@ Como usuário
 
 Quero poder ter informações através de gráficos
 
-Para poder ter uma melhor compreenção das estatísticas
+Para poder ter uma melhor compreenção das estatísticas de minhas consultas
 
 ```
 
