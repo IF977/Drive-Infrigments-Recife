@@ -31,11 +31,11 @@ Início da iteração | Término da iteração
 - Aprendizer a Linguagem Ruby e Terminar trilha do CodeAcademy
 
 #### Planejado para a próxima iteração
-- Início do desenvolvimento [Todos]
-- Aprendizer a Linguagem Ruby e Terminar Trilha do CodeAcademy(Iteração Anterior)[Todos]
-- Aprofundar conhecimentos em Ruby on Rails e utilização da arquitetura MVC [Todos]
-- Começar a desenvolver parte das histórias de usuário [Todos]
-- Pesquisar e definir API's a serem utilizadas [Todos]
+- Início do desenvolvimento `[Equipe]`
+- Aprendizer a Linguagem Ruby e Terminar Trilha do CodeAcademy(Iteração Anterior) `[Equipe]`
+- Aprofundar conhecimentos em Ruby on Rails e utilização da arquitetura MVC `[Equipe]`
+- Começar a desenvolver parte das histórias de usuário `[Equipe]`
+- Pesquisar e definir API's a serem utilizadas `[Equipe]`
 
 #### Lições aprendidas
 - Utilização do Git, importância do Github para desenvolver projetos
