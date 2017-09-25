@@ -28,11 +28,11 @@ Início da iteração | Término da iteração
 - Ajustar Labels e Milestones das Issues no Github
 
 #### O que não foi feito
-- Aprendizer a Linguagem Ruby e Terminar trilha do CodeAcademy
+- Aprender a Linguagem Ruby e Terminar trilha do CodeAcademy
 
 #### Planejado para a próxima iteração
 - Início do desenvolvimento `[Equipe]`
-- Aprendizer a Linguagem Ruby e Terminar Trilha do CodeAcademy(Iteração Anterior) `[Equipe]`
+- Aprender a Linguagem Ruby e Terminar Trilha do CodeAcademy(Iteração Anterior) `[Equipe]`
 - Aprofundar conhecimentos em Ruby on Rails e utilização da arquitetura MVC `[Equipe]`
 - Começar a desenvolver parte das histórias de usuário `[Equipe]`
 - Pesquisar e definir API's a serem utilizadas `[Equipe]`
