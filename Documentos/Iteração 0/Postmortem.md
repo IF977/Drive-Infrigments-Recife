@@ -12,7 +12,7 @@ Início da iteração | Término da iteração
 - Definição dos papéis de cada integrante da equipe `[Equipe]`
 - Definição as  principais funcionalidades da Aplicação `[Equipe]`
 - Aprendizer a Linguagem Ruby e Terminar trilha do CodeAcademy `[Equipe]`
-- Definição do cronograma com auxílio da ferramenta Trello `[Equipe]`[[@Trello](https://trello.com/b/QPrG9YMu/the-trolls-project)]
+- Definição do cronograma com auxílio da ferramenta Trello `[Equipe]`[[Trello](https://trello.com/b/QPrG9YMu/the-trolls-project)]
 - Criação das Histórias de usuário [[@Paulo Marques](https://github.com/rhenanalves)]
 - Criação de Mockups e Storyboards Lo-Fi [[@Paulo Marques](https://github.com/rhenanalves)]
 - Ajustar Labels e Milestones das Issues no Github`[Equipe]`
@@ -32,7 +32,7 @@ Início da iteração | Término da iteração
 
 #### Planejado para a próxima iteração
 - Início do desenvolvimento [Todos]
-- Aprendizer a Linguagem Ruby e Terminar Trilha do CodeAcademy(Iteração Anterior)
+- Aprendizer a Linguagem Ruby e Terminar Trilha do CodeAcademy(Iteração Anterior)[Todos]
 - Aprofundar conhecimentos em Ruby on Rails e utilização da arquitetura MVC [Todos]
 - Começar a desenvolver parte das histórias de usuário [Todos]
 - Pesquisar e definir API's a serem utilizadas [Todos]
