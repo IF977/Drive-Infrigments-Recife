@@ -13,8 +13,8 @@ Início da iteração | Término da iteração
 - Definição as  principais funcionalidades da Aplicação `[Equipe]`
 - Aprendizer a Linguagem Ruby e Terminar trilha do CodeAcademy `[Equipe]`
 - Definição do cronograma com auxílio da ferramenta Trello `[Equipe]`[[Trello](https://trello.com/b/QPrG9YMu/the-trolls-project)]
-- Criação das Histórias de usuário [[@Paulo Marques](https://github.com/rhenanalves)]
-- Criação de Mockups e Storyboards Lo-Fi [[@Paulo Marques](https://github.com/rhenanalves)]
+- Criação das Histórias de usuário [[@Paulo Marques](https://github.com/pemsm)]
+- Criação de Mockups e Storyboards Lo-Fi [[@Paulo Marques](https://github.com/pemsm)]
 - Ajustar Labels e Milestones das Issues no Github`[Equipe]`
 
 #### O que foi feito
