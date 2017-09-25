@@ -75,7 +75,7 @@ Para melhor vizualizar possíveis locais de infrações
 ```sh
 Como usuário 
 
-Quero poder entrar em contato com a equipe de desenvolvimento
+Quero poder entrar em contato com a equipe de desenvolvimento sempre que necessário
 
 Para possíveis sugestões e/ou reclamações
 ```
