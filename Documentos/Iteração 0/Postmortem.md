@@ -13,9 +13,9 @@ Início da iteração | Término da iteração
 - Definição as  principais funcionalidades da Aplicação `[Equipe]`
 - Aprendizer a Linguagem Ruby e Terminar trilha do CodeAcademy `[Equipe]`
 - Definição do cronograma com auxílio da ferramenta Trello `[Equipe]`[[Trello](https://trello.com/b/QPrG9YMu/the-trolls-project)]
-- Criação das Histórias de usuário [[@Paulo Marques](https://github.com/pemsm)]
+- Criação das Histórias de usuário [[@Paulo Marques](https://github.com/pemsm) e [@Rhenan Alves](https://github.com/rhenanalves)]
 - Criação de Mockups e Storyboards Lo-Fi [[@Paulo Marques](https://github.com/pemsm)]
-- Ajustar Labels e Milestones das Issues no Github`[Equipe]`
+- Ajustar Labels e Milestones das Issues no Github [[@Paulo Marques](https://github.com/pemsm) e [@Marcus Nascimento](https://github.com/marcustib)]
 
 #### O que foi feito
 - Elaboração do README com a descrição do projeto
@@ -36,6 +36,7 @@ Início da iteração | Término da iteração
 - Aprofundar conhecimentos em Ruby on Rails e utilização da arquitetura MVC `[Equipe]`
 - Começar a desenvolver parte das histórias de usuário `[Equipe]`
 - Pesquisar e definir API's a serem utilizadas `[Equipe]`
+- Desenvolvimento e deploy das issue #5 e #6 
 
 #### Lições aprendidas
 - Utilização do Git, importância do Github para desenvolver projetos
