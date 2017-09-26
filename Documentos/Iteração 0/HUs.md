@@ -2,26 +2,6 @@
 
 
 ```sh
-
-Como usuário
-
-Quero poder acessar uma homepage autoexplicativa
-
-Para tornar simples o entendimento do objetivo da aplicação
-
-```
-
-```sh
-
-Como usuário
-
-Quero poder acessar uma homepage simples, de fácil manuseio
-
-Para poder ter acesso em qualquer dispositivo
-
-```
-
-```sh
 Como usuário 
 
 Quero poder acessar uma página contendo informações úteis
