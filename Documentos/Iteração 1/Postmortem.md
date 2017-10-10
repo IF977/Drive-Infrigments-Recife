@@ -8,14 +8,14 @@ Início da iteração | Término da iteração
 
 #### O que estava planejado
 
-- Implementação de 2 HU's [@Thomaz](https://github.com/thomazbmaciel)]
-- Postmortem da 1ª iteração [@Rhenan Alves](https://github.com/rhenanalves)]
+- Implementação de 2 HU's [[@Thomaz](https://github.com/thomazbmaciel)]
+- Postmortem da 1ª iteração [[@Rhenan Alves](https://github.com/rhenanalves)]
 - Implementação dos testes TDD e BDD [[@Paulo Marques](https://github.com/pemsm) e [@Marcus Nascimento](https://github.com/marcustib)]
 
 
 #### O que foi feito
 
-- Implementação de 2 HU's [@Thomaz](https://github.com/thomazbmaciel)]
+- Implementação de 2 HU's [[@Thomaz](https://github.com/thomazbmaciel)]
 - Implementação dos testes TDD e BDD [[@Paulo Marques](https://github.com/pemsm) e [@Marcus Nascimento](https://github.com/marcustib)]
 
 #### O que não foi feito
