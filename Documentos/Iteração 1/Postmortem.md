@@ -22,7 +22,7 @@ Início da iteração | Término da iteração
 
 #### O que não foi feito
 
-- Todo o planejamento foi executado. 
+- BDD
 
 #### Planejado para a próxima iteração
 
