@@ -17,6 +17,8 @@ Início da iteração | Término da iteração
 
 - Implementação de 2 HU's [[@Thomaz](https://github.com/thomazbmaciel)]
 - Implementação dos testes TDD e BDD [[@Paulo Marques](https://github.com/pemsm) e [@Marcus Nascimento](https://github.com/marcustib)]
+- Deploy da issues #11 [[@Rhenan Alves](https://github.com/rhenanalves)]
+
 
 #### O que não foi feito
 
@@ -24,12 +26,12 @@ Início da iteração | Término da iteração
 
 #### Planejado para a próxima iteração
 
-- Postmortem
 - Contiuação do desenvolvimento 
 - Criação de novos testes 
-
+- Desenvolvimento e deploy das issue #9 #10 #12 #15
 
 #### Lições aprendidas
+
 - A importância da utilização de issues.
 - Gerenciamento do tempo e subdivisão de tarefas
 - Criação de testes com a praticidade de Ruby. 
