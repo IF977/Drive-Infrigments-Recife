@@ -1,3 +1,3 @@
-Given(/^I am on the home page$/) do
-  visit (root_path)
+Given(/^I am on the ([^"]*) page$/) do |page|
+  visit(page_path)
 end
