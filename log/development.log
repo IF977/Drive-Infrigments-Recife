@@ -1573,3 +1573,107 @@ Processing by HomeController#index as HTML
 Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 10.240.0.186 at 2017-10-17 19:11:59 +0000
+Cannot render console from 10.240.0.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb
+  Rendered home/index.html.erb (199.1ms)
+Completed 200 OK in 215ms (Views: 205.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/information" for 10.240.1.19 at 2017-10-17 19:12:05 +0000
+Cannot render console from 10.240.1.19! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by InformationController#index as HTML
+  Rendering information/index.html.erb
+  Rendered information/index.html.erb (3.0ms)
+Completed 200 OK in 6ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/queries" for 10.240.1.19 at 2017-10-17 19:12:07 +0000
+Cannot render console from 10.240.1.19! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by QueriesController#index as HTML
+  Rendering queries/index.html.erb
+  Rendered queries/index.html.erb (3.0ms)
+Completed 200 OK in 6ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/team" for 10.240.0.186 at 2017-10-17 19:12:07 +0000
+Cannot render console from 10.240.0.186! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by TeamController#index as HTML
+  Rendering team/index.html.erb
+  Rendered team/index.html.erb (3.3ms)
+Completed 200 OK in 7ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/information" for 10.240.1.64 at 2017-10-17 19:12:08 +0000
+Cannot render console from 10.240.1.64! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by InformationController#index as HTML
+  Rendering information/index.html.erb
+  Rendered information/index.html.erb (2.9ms)
+Completed 200 OK in 6ms (Views: 4.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 10.240.0.69 at 2017-10-17 19:12:09 +0000
+Cannot render console from 10.240.0.69! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactController#index as HTML
+  Rendering contact/index.html.erb
+  Rendered contact/index.html.erb (2.8ms)
+Completed 200 OK in 6ms (Views: 4.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/information" for 10.240.1.20 at 2017-10-17 19:12:10 +0000
+Cannot render console from 10.240.1.20! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by InformationController#index as HTML
+  Rendering information/index.html.erb
+  Rendered information/index.html.erb (3.2ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/information" for 10.240.1.15 at 2017-10-17 19:13:38 +0000
+Cannot render console from 10.240.1.15! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by InformationController#index as HTML
+  Rendering information/index.html.erb
+  Rendered information/index.html.erb (3.6ms)
+Completed 200 OK in 7ms (Views: 5.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 10.240.1.15 at 2017-10-17 19:13:39 +0000
+Cannot render console from 10.240.1.15! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb
+  Rendered home/index.html.erb (2.9ms)
+Completed 200 OK in 6ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/queries" for 10.240.1.15 at 2017-10-17 19:13:41 +0000
+Cannot render console from 10.240.1.15! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by QueriesController#index as HTML
+  Rendering queries/index.html.erb
+  Rendered queries/index.html.erb (3.1ms)
+Completed 200 OK in 6ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/team" for 10.240.1.32 at 2017-10-17 19:13:42 +0000
+Cannot render console from 10.240.1.32! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by TeamController#index as HTML
+  Rendering team/index.html.erb
+  Rendered team/index.html.erb (3.0ms)
+Completed 200 OK in 6ms (Views: 4.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/information" for 10.240.1.19 at 2017-10-17 19:13:43 +0000
+Cannot render console from 10.240.1.19! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by InformationController#index as HTML
+  Rendering information/index.html.erb
+  Rendered information/index.html.erb (3.1ms)
+Completed 200 OK in 6ms (Views: 5.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 10.240.1.19 at 2017-10-17 19:13:43 +0000
+Cannot render console from 10.240.1.19! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by ContactController#index as HTML
+  Rendering contact/index.html.erb
+  Rendered contact/index.html.erb (2.9ms)
+Completed 200 OK in 6ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+
+
