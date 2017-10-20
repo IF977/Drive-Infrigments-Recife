@@ -20,15 +20,20 @@ Feature: Send message contact
       | João | joao_inimiguzao@miaumiau.com | blabla bla bla blablalba | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vitae ullamcorper dolor. Pellentesque maximus urna vitae orci ultrices lobortis. Morbi aliquet venenatis sagittis. Maecenas ac. |
       
       
-    Scenario: Send message without email
+    Scenario Outline: Send message without email
         Given I am on the contact page
         When I put <nome> on the user_nome input
         And put <subject> on the subject input
         And put <message> on the text input
         And click on the Submit button
         Then I should see the text Email can't be blank
+    
+        Examples:
+      | nome | subject | message |
+      | Abigobaldo | you guys should improve blabla | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur augue libero, ultrices et pretium et, ultrices vitae eros. Aliquam venenatis velit sem, vel consequat mi. |
+      | João | blabla bla bla blablalba | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vitae ullamcorper dolor. Pellentesque maximus urna vitae orci ultrices lobortis. Morbi aliquet venenatis sagittis. Maecenas ac. |
         
-    Scenario: Send message without subject
+    Scenario Outline: Send message without subject
         Given I am on the contact page
         When I put <nome> on the user_nome input
         And put <email> on the user_email input
@@ -36,10 +41,20 @@ Feature: Send message contact
         And click on the Submit button
         Then I should see the text Subject can't be blank
         
-    Scenario: Send message without message
+        Examples:
+      | nome | email | message |
+      | Abigobaldo | abigobaldo_amigao@auau.com | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur augue libero, ultrices et pretium et, ultrices vitae eros. Aliquam venenatis velit sem, vel consequat mi. |
+      | João | joao_inimiguzao@miaumiau.com | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vitae ullamcorper dolor. Pellentesque maximus urna vitae orci ultrices lobortis. Morbi aliquet venenatis sagittis. Maecenas ac. |
+        
+    Scenario Outline: Send message without message
         Given I am on the contact page
         When I put <nome> on the user_nome input
         And put <email> on the user_email input
         And put <subject> on the subject input
         And click on the Submit button
         Then I should see the text Message can't be blank
+        
+        Examples:
+      | nome | email | subject |
+      | Abigobaldo | abigobaldo_amigao@auau.com | you guys should improve blabla |
+      | João | joao_inimiguzao@miaumiau.com | blabla bla bla blablalba |
