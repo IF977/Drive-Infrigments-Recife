@@ -7,8 +7,8 @@ Feature: Go to the page information
     In order to get information
     
     Scenario: Successfully vising information page
-      Given I am on the index page
-      When I click on information link
+      Given I am on the home page
+      When I click on INFORMATION link
       Then I should see the page information
       
       

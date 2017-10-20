@@ -5,13 +5,18 @@ Feature: Send message contact
     
     In order to give sugestions and/or complaint
     
+    Scenario: Successfully vising contact page
+      Given I am on the home page
+      When I click on CONTATC link
+      Then I should see the page contact
+    
     Scenario Outline: Send massage Successfully
         Given I am on the contact page
         When I put <nome> on the user_nome input
-        And put <email> on the user_email input
-        And put <subject> on the subject input
-        And put <message> on the text input
-        And click on the Submit button
+        And I put <email> on the user_email input
+        And I put <subject> on the subject input
+        And I put <message> on the message input
+        And I click on the Submit button
         Then I should see the text Your message has been sent 
         
        Examples:
@@ -23,9 +28,9 @@ Feature: Send message contact
     Scenario Outline: Send message without email
         Given I am on the contact page
         When I put <nome> on the user_nome input
-        And put <subject> on the subject input
-        And put <message> on the text input
-        And click on the Submit button
+        And I put <subject> on the subject input
+        And I put <message> on the message input
+        And I click on the Submit button
         Then I should see the text Email can't be blank
     
         Examples:
@@ -36,9 +41,9 @@ Feature: Send message contact
     Scenario Outline: Send message without subject
         Given I am on the contact page
         When I put <nome> on the user_nome input
-        And put <email> on the user_email input
-        And put <message> on the text input
-        And click on the Submit button
+        And I put <email> on the user_email input
+        And I put <message> on the message input
+        And I click on the Submit button
         Then I should see the text Subject can't be blank
         
         Examples:
@@ -49,9 +54,9 @@ Feature: Send message contact
     Scenario Outline: Send message without message
         Given I am on the contact page
         When I put <nome> on the user_nome input
-        And put <email> on the user_email input
-        And put <subject> on the subject input
-        And click on the Submit button
+        And I put <email> on the user_email input
+        And I put <subject> on the subject input
+        And I click on the Submit button
         Then I should see the text Message can't be blank
         
         Examples:
