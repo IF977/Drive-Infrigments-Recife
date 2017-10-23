@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
-  get 'contact' => 'contact#index'
+  resources :contatos
+  get 'contact' => 'contatos#new'
 
   get 'queries' => 'queries#index'
 

@@ -6,6 +6,6 @@ When(/^click on the ([^"]*) button$/) do |button|
     click_button(button)
 end
 
-When(/^click on the ([^"]*) link$/) do |button|
-    click_link(button)
+When(/^click on the ([^"]*) text/) do |text|
+    click_link(text)
 end

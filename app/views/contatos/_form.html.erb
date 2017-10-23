@@ -1,0 +1,54 @@
+<%= form_for(@contato) do |f| %>
+  <% if @contato.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(contatos.errors.count, "error") %> prohibited this contato from being saved:</h2>
+
+      <ul>
+      <% @contato.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <!--div class="field">
+    <-%= f.label :Nome %>
+    <-%= f.text_field :Nome %>
+  </div>
+
+  <div class="field">
+    <-%= f.label :Email %>
+    <-%= f.text_field :Email %>
+  </div>
+
+  <div class="field">
+    <-%= f.label :Subject %>
+    <-%= f.text_field :Subject %>
+  </div>
+
+  <div class="field">
+    <-%= f.label :Message %>
+    <-%= f.text_field :Message %>
+  </div-->
+  </div>
+    <div class="field">
+    <label for="contato_Nome">Nome *</label><br>
+    <input type="Nome" name="contato[Nome]" id="contato_Nome" size = "45" required/>
+  </div>
+    <div class="field">
+    <label for="contato_Email">Email *</label><br>
+    <input type="email" name="contato[email]" id="contato_email" size = "45" required/>
+  </div>
+    <div class="field">
+    <label for="contato_Subject">Subject *</label><br>
+    <input type="email" name="contato[Subject]" id="contato_Subject" size = "45" required/>
+  </div>
+  <div class="field">
+    <label for="contato_Message">Message *</label><br>
+    <textarea name="contato[Message]" id="contato_Message" rows="5" cols="45" required/>
+</textarea>
+  </div>
+  <div class="actions">
+    <input type="submit" name="commit" value="Enviar" />
+  </div>
+<% end %>
