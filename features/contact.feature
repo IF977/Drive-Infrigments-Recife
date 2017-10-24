@@ -4,9 +4,10 @@ Feature: Send message contact
     I want to make contact with the development team
     
     In order to give sugestions and/or complaint
+    
 	 Background: Entrar em contato
     	Given I am on the home page
-    	When I click on the Contact text
+    	When I click on the contact text
     	And I visit contact link
     	Then I should see Deixe seu comentario aqui
     
