@@ -28,7 +28,7 @@ class ContatosController < ApplicationController
 
     respond_to do |format|
       if @contato.save
-        format.html { redirect_to @contato, notice: 'Contato was successfully created.' }
+        format.html { redirect_to notice: 'Contato was successfully created.' }
         format.json { render :show, status: :created, location: @contato }
       else
         format.html { render :new }
